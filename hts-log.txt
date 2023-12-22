@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 12 Dec 2023 23:02:28 at https://validthemes.net/site-template/agrul/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://validthemes.net/site-template/agrul/index.html -O1 "C:\My Web Sites\kurFruit" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/fa-brands-400.eot (from https://validthemes.net/site-template/agrul/assets/css/font-awesome.min.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/fa-brands-400.eot? (from https://validthemes.net/site-template/agrul/assets/css/font-awesome.min.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/fa-brands-400.ttf (from https://validthemes.net/site-template/agrul/assets/css/font-awesome.min.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/fa-brands-400.svg (from https://validthemes.net/site-template/agrul/assets/css/font-awesome.min.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/fa-duotone-900.eot (from https://validthemes.net/site-template/agrul/assets/css/font-awesome.min.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/fa-duotone-900.eot? (from https://validthemes.net/site-template/agrul/assets/css/font-awesome.min.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/fa-duotone-900.ttf (from https://validthemes.net/site-template/agrul/assets/css/font-awesome.min.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/fa-duotone-900.svg (from https://validthemes.net/site-template/agrul/assets/css/font-awesome.min.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/fa-light-300.eot (from https://validthemes.net/site-template/agrul/assets/css/font-awesome.min.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/fa-light-300.eot? (from https://validthemes.net/site-template/agrul/assets/css/font-awesome.min.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/fa-light-300.ttf (from https://validthemes.net/site-template/agrul/assets/css/font-awesome.min.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/fa-light-300.svg (from https://validthemes.net/site-template/agrul/assets/css/font-awesome.min.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/fa-regular-400.eot (from https://validthemes.net/site-template/agrul/assets/css/font-awesome.min.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/fa-regular-400.eot? (from https://validthemes.net/site-template/agrul/assets/css/font-awesome.min.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/fa-regular-400.ttf (from https://validthemes.net/site-template/agrul/assets/css/font-awesome.min.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/fa-regular-400.svg (from https://validthemes.net/site-template/agrul/assets/css/font-awesome.min.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/fa-solid-900.eot (from https://validthemes.net/site-template/agrul/assets/css/font-awesome.min.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/fa-solid-900.eot? (from https://validthemes.net/site-template/agrul/assets/css/font-awesome.min.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/fa-solid-900.ttf (from https://validthemes.net/site-template/agrul/assets/css/font-awesome.min.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/fa-solid-900.svg (from https://validthemes.net/site-template/agrul/assets/css/font-awesome.min.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/themify.eot?-fvbane (from https://validthemes.net/site-template/agrul/assets/css/themify-icons.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/themify.eot? (from https://validthemes.net/site-template/agrul/assets/css/themify-icons.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/themify.woff?-fvbane (from https://validthemes.net/site-template/agrul/assets/css/themify-icons.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/themify.ttf?-fvbane (from https://validthemes.net/site-template/agrul/assets/css/themify-icons.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/themify.svg?-fvbane (from https://validthemes.net/site-template/agrul/assets/css/themify-icons.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/fonts/ElegantIcons.ttf (from https://validthemes.net/site-template/agrul/assets/css/elegant-icons.css)
+23:03:42	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/css/ElegantIcons.svg (from https://validthemes.net/site-template/agrul/assets/css/elegant-icons.css)
+23:03:43	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/assets/css/flaticon.svg (from https://validthemes.net/site-template/agrul/assets/css/flaticon-set.css)
+23:03:43	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/$ (from https://validthemes.net/site-template/agrul/blog-single.html)
+23:03:43	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/agrul/Version/ (from https://validthemes.net/site-template/agrul/assets/js/TweenMax.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 15 seconds : 229 links scanned, 198 files written (17846201 bytes overall) [14379601 bytes received at 191728 bytes/sec], 5105728 bytes transferred using HTTP compression in 97 files, ratio 28%, 20.8 requests per connection
+(30 errors, 0 warnings, 0 messages)

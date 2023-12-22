@@ -1,0 +1,44 @@
+.vision-container {
+    width: 100%;
+}
+
+.vision-row {
+    max-width: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    /* Adjust padding for better spacing on smaller screens */
+    display: flex;
+    flex-direction: wrap;
+    gap: 10px;
+    /* Stack columns on small screens */
+}
+
+.vision,
+.mission {
+    width: 100%;
+    margin-bottom: 20px;
+    /* Adjust margin for better spacing on smaller screens */
+}
+
+.vision .title,
+.mission .title {
+    font-size: 36px;
+    color: #1F4E3D;
+}
+
+/* Media query for screens smaller than 768px (adjust as needed) */
+@media only screen and (max-width: 768px) {
+    .vision-row {
+        padding: 10px;
+        flex-direction: column;
+        /* Adjust padding for better spacing on smaller screens */
+    }
+
+    .vision,
+    .mission {
+        width: 100%;
+        margin-bottom: 10px;
+        /* Adjust margin for better spacing on smaller screens */
+    }
+}
